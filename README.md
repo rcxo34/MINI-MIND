@@ -1,5 +1,6 @@
-# MEGA-MIND
-An MCQ-Trainer app that envisions to revolutionize pedagogy.
+# MINI-MIND
+
+Just a mini quiz app, nothing overwhelming.
 
 Run the index.html file to run the project
 
